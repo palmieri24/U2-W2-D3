@@ -1,0 +1,7 @@
+$btn-color: #0e6cff, #ff8700, #4caf50;
+
+@each $el in $btn-color {
+  .btn-#{$el} {
+    background-color: $el;
+  }
+}
