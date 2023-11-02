@@ -1,0 +1,8 @@
+@mixin titleBig($text-color, $font-size, $font-family) {
+  padding: 1.5rem;
+  font: {
+    family: $font-family;
+    weight: 400;
+    size: $font-size;
+  }
+}
