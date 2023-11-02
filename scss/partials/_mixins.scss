@@ -7,3 +7,10 @@
     size: $title-size;
   }
 }
+
+@mixin floating(
+  $border-radius: 30px,
+  $box-shadow: 7px 6px 18px 2px #000000,
+  $border: 1px solid palegoldenrod
+) {
+}
