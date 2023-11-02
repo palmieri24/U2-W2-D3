@@ -1,7 +1,87 @@
+.padding-inline-xs {
+  padding-inline: 10px;
+}
+
+.padding-inline-sm {
+  padding-inline: 20px;
+}
+
+.padding-inline-md {
+  padding-inline: 30px;
+}
+
+.padding-inline-lg {
+  padding-inline: 50px;
+}
+
+.padding-inline-xl {
+  padding-inline: 100px;
+}
+
+.padding-block-xs {
+  padding-block: 10px;
+}
+
+.padding-block-sm {
+  padding-block: 20px;
+}
+
+.padding-block-md {
+  padding-block: 30px;
+}
+
+.padding-block-lg {
+  padding-block: 50px;
+}
+
+.padding-block-xl {
+  padding-block: 100px;
+}
+
+.margin-inline-xs {
+  padding-inline: 10px;
+}
+
+.margin-inline-sm {
+  padding-inline: 20px;
+}
+
+.margin-inline-md {
+  padding-inline: 30px;
+}
+
+.margin-inline-lg {
+  padding-inline: 50px;
+}
+
+.margin-inline-xl {
+  padding-inline: 100px;
+}
+
+.margin-block-xs {
+  padding-block: 10px;
+}
+
+.margin-block-sm {
+  padding-block: 20px;
+}
+
+.margin-block-md {
+  padding-block: 30px;
+}
+
+.margin-block-lg {
+  padding-block: 50px;
+}
+
+.margin-block-xl {
+  padding-block: 100px;
+}
+
 h1 {
   padding: 1.5rem;
   color: #f4f4f4;
   font-family: "Arial", sans-serif;
   font-weight: 400;
-  font-size: 68px;
+  font-size: 36px;
 }/*# sourceMappingURL=style.css.map */
