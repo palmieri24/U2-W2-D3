@@ -1,1 +1,1 @@
-{"version":3,"sourceRoot":"","sources":[],"names":[],"mappings":"","file":"style.min.css"}
+{"version":3,"sourceRoot":"","sources":["../../../scss/style.scss","../../../scss/partials/_mixins.scss","../../../scss/partials/_colori.scss","../../../scss/partials/_font.scss"],"names":[],"mappings":"AAQA,GCPE,eACA,MCFW,QDIT,YEJU,mBFKV,gBACA,UDG6B","file":"style.min.css"}

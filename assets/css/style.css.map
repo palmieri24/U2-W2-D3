@@ -1,1 +1,1 @@
-{"version":3,"sourceRoot":"","sources":["../../scss/style.scss"],"names":[],"mappings":"AAQA;AAAA;AAAA","file":"style.css"}
+{"version":3,"sourceRoot":"","sources":["../../scss/style.scss","../../scss/partials/_mixins.scss","../../scss/partials/_colori.scss","../../scss/partials/_font.scss"],"names":[],"mappings":"AAQA;ECPE;EACA,OCFW;EDIT,aEJU;EFKV;EACA,WDG6B","file":"style.css"}

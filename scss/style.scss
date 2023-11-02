@@ -6,6 +6,6 @@
 @import "./partials/reset";
 @import "./partials/spaziature";
 
-/*h1 {
-  @include titleBig($text-color, $font-size, $font-family);
-}*/
+h1 {
+  @include titleBig($text-color, 68px, $font-family);
+}
